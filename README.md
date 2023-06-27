@@ -1,4 +1,5 @@
-# Alura+ Olá, Bem vindo ao meu projeto de página modelo de streaming.
+# Alura+ 
+# Olá, Bem vindo ao meu projeto de página modelo de streaming.
 
 ![image](https://github.com/felyppe1201/Aluraplus/blob/main/assets/página.png)
 
